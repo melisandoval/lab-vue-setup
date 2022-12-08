@@ -1,5 +1,7 @@
 <template>
-  <p>This is a paragraph inside the MessageCard component</p>
+  <p>{{ message }}</p>
 </template>
 
-<script setup></script>
+<script setup>
+const message = "This is a paragraph inside the MessageCard component";
+</script>
