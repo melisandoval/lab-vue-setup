@@ -1,4 +1,4 @@
-### Tasks:
+# Bootcamp lab | Vue practice
 
 * Iteration 1 | Create a new Vue component inside your project and show it on the home screen
 
